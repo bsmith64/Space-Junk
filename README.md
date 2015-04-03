@@ -1,2 +1,2 @@
 # Space-Junk
-Pygame space shooter / adventure
+Pygame space shooter / adventure game.
